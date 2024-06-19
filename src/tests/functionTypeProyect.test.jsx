@@ -40,5 +40,4 @@ describe("tests function type proyect", () => {
 
     })
 
-
 })
